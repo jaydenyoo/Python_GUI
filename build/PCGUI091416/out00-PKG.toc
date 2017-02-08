@@ -1,0 +1,61 @@
+('D:\\Desktop\\build\\PCGUI091416\\out00-PKG.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0},
+ [('out00-PYZ.pyz', 'D:\\Desktop\\build\\PCGUI091416\\out00-PYZ.pyz', 'PYZ'),
+  ('struct', 'C:\\Users\\JeeHaeng Yoo\\Anaconda3\\lib\\struct.pyo', 'PYMODULE'),
+  ('pyimod01_os_path',
+   'C:\\Users\\JeeHaeng '
+   'Yoo\\Anaconda3\\lib\\site-packages\\pyinstaller-3.2-py3.5.egg\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'C:\\Users\\JeeHaeng '
+   'Yoo\\Anaconda3\\lib\\site-packages\\pyinstaller-3.2-py3.5.egg\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'C:\\Users\\JeeHaeng '
+   'Yoo\\Anaconda3\\lib\\site-packages\\pyinstaller-3.2-py3.5.egg\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\JeeHaeng '
+   'Yoo\\Anaconda3\\lib\\site-packages\\pyinstaller-3.2-py3.5.egg\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'C:\\Users\\JeeHaeng '
+   'Yoo\\Anaconda3\\lib\\site-packages\\pyinstaller-3.2-py3.5.egg\\PyInstaller\\loader\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_win32comgenpy',
+   'C:\\Users\\JeeHaeng '
+   'Yoo\\Anaconda3\\lib\\site-packages\\pyinstaller-3.2-py3.5.egg\\PyInstaller\\loader\\rthooks\\pyi_rth_win32comgenpy.py',
+   'PYSOURCE'),
+  ('pyi_rth_traitlets',
+   'C:\\Users\\JeeHaeng '
+   'Yoo\\Anaconda3\\lib\\site-packages\\pyinstaller-3.2-py3.5.egg\\PyInstaller\\loader\\rthooks\\pyi_rth_traitlets.py',
+   'PYSOURCE'),
+  ('pyi_rth_qt4plugins',
+   'C:\\Users\\JeeHaeng '
+   'Yoo\\Anaconda3\\lib\\site-packages\\pyinstaller-3.2-py3.5.egg\\PyInstaller\\loader\\rthooks\\pyi_rth_qt4plugins.py',
+   'PYSOURCE'),
+  ('pyi_rth_mplconfig',
+   'C:\\Users\\JeeHaeng '
+   'Yoo\\Anaconda3\\lib\\site-packages\\pyinstaller-3.2-py3.5.egg\\PyInstaller\\loader\\rthooks\\pyi_rth_mplconfig.py',
+   'PYSOURCE'),
+  ('pyi_rth_mpldata',
+   'C:\\Users\\JeeHaeng '
+   'Yoo\\Anaconda3\\lib\\site-packages\\pyinstaller-3.2-py3.5.egg\\PyInstaller\\loader\\rthooks\\pyi_rth_mpldata.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Users\\JeeHaeng '
+   'Yoo\\Anaconda3\\lib\\site-packages\\pyinstaller-3.2-py3.5.egg\\PyInstaller\\loader\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('PCGUI091416', 'D:\\Desktop\\PCGUI091416.py', 'PYSOURCE'),
+  ('PCGUI091416.exe.manifest',
+   'D:\\Desktop\\build\\PCGUI091416\\PCGUI091416.exe.manifest',
+   'BINARY')],
+ True,
+ False,
+ False)
